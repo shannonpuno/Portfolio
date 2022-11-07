@@ -1,0 +1,14 @@
+body {
+    background-color: #f5f9ff;
+}
+
+.card{
+
+    background-color: #cce2ff;
+    border: 3px solid #011232;
+}
+
+.aboutMe{
+    background-color: #e5e7fa;
+    border-bottom: 3px solid #0a0d33;
+}
