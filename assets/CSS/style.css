@@ -7,10 +7,23 @@ body {
     border-bottom: 3px solid #0a0d33;
 }
 
+.scrolling-wrapper {
+   
+   
+    overflow-x: scroll;
+    overflow-y: scroll;
+    white-space: nowrap;
+
+}
+
+.btn-sm {
+    background-color: #3542d4;
+}
+
 /* Bootstrap Snippet for timeline */
 
 .hori-timeline .events {
-    border-top: 3px solid #e9ecef;
+    border-top: 3px solid #3542d4;
 }
 .hori-timeline .events .event-list {
     display: block;
@@ -23,7 +36,7 @@ body {
     content: "";
     position: absolute;
     height: 36px;
-    border-right: 2px dashed #dee2e6;
+    border-right: 2px dashed #3542d4;
     top: 0;
 }
 .hori-timeline .events .event-list .event-date {
@@ -53,14 +66,8 @@ body {
     }
 }
 .bg-soft-primary {
-    background-color: rgba(64,144,203,.3)!important;
+    background-color: #c7cbf4;
 }
 .bg-soft-success {
-    background-color: rgba(71,189,154,.3)!important;
-}
-.bg-soft-danger {
-    background-color: rgba(231,76,94,.3)!important;
-}
-.bg-soft-warning {
-    background-color: rgba(249,213,112,.3)!important;
+    background-color: #7d85e3;
 }
