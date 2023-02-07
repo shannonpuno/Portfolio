@@ -1,36 +1,13 @@
 # Shannon Puno's Portfolio
 
-## User Story
-AS A coding student 
+## Description
+This is my personal Portfolio that I created with HTML and CSS bootstrap. The reason I made this was to showcase to potential employers my progress and all of my projects I have done. This is an easy way for me to fully display my projects, resume, contact section, and an about me description all in one place. 
 
-I WANT to create a portfolio of work my work samples
+## Installation 
+The link to view my depolyed Portfolio
 
-SO THAT I can demonstrate why I would be a good candidate through the work I have done, to future employers
+## Credits
 
-## Acceptance Criteria
-GIVEN I need to create a portfolio
+The timeline section I used this bootstrap template: https://www.bootdey.com/snippets/view/simple-horizontal-timeline
 
-WHEN I have deployed the portfolio
-
-THENvit will contain my name, a photo/avatar, and links to sections about me, my work, and my contact information
-
-WHEN a user clicks the links in the navigation
-
-THEN the UI scrolls to the corresponding section
-
-WHEN the user clicks on the link to the section about my work
-
-THEN the UI scrolls to a section with titled images of the developer's applications
-
-WHNE the user is presented with my first application
-
-THEN that application's image should be larger in size than the others
-
-WHEN the user clicks on the images of the application
-
-THEN the user is taken ot that deployed application
-
-WHEN the user resizes the page or view the site on various screen and devices
-
-THEN the user is presented with a responsive layout that adapts to their viewport. 
 
